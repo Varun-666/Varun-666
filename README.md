@@ -11,6 +11,8 @@
 
 - 📫 How to reach me **varunfatehpuria2@gmail.com**
 
+[![An image of @varun666's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/varun666)](https://holopin.io/@varun666)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/v4mp120047" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="v4mp120047" height="30" width="40" /></a>
