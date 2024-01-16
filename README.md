@@ -25,6 +25,6 @@
 [![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/65000dd55ce9f4ca58b7a232?variant=dark)](https://roadmap.sh)
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=varun-666&show_icons=true&locale=en&layout=compact" alt="varun-666" />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=varun-666&show_icons=true&locale=en" alt="varun-666" /></p>
+&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=varun-666&show_icons=true&locale=en" alt="varun-666" />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=varun-666&" alt="varun-666" /></p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=varun-666&" alt="varun-666" />
