@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working with **TCET Open Source**
 
-- 🌱 I’m currently learning **YAML & Python**
+- 🌱 I’m currently learning **YAML, C# & Game Development**
 
 - 📫 How to reach me **varunfatehpuria2@gmail.com**
 
