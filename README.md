@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Varun Fatehpuria</h1>
 <h3 align="center">A passionate UI/UX Designer, Graphic Designer & A Web Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=varun-666&label=Profile%20views&color=0e75b6&style=flat" alt="varun-666" /> </p>
-
-<p align="left"> <a href="https://twitter.com/v4mp120047" target="blank"><img src="https://img.shields.io/twitter/follow/v4mp120047?logo=twitter&style=for-the-badge" alt="v4mp120047" /></a> </p>
-
 - 🔭 I’m currently working with **TCET Open Source**
 
 - 🌱 I’m currently learning **YAML, C# & Game Development**
