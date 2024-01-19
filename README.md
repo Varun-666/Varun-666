@@ -9,7 +9,7 @@
 
 <h3>⚡Languages & Tools</h3>
 
-<p align="left"><a href="https://github.com/simple-icons/simple-icons/blob/develop/icons/adobecreativecloud.svg"></a></p>
+<p align="left"><img href="https://github.com/simple-icons/simple-icons/blob/develop/icons/adobecreativecloud.svg"></img></p>
 
 <h3>📛 Holopin Hacktoberfest23 Badges</h3>
 
