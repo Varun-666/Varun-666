@@ -8,6 +8,7 @@
 - 📫 How to reach me **varunfatehpuria2@gmail.com**
 
 <h3>📛 Holopin Hacktoberfest23 Badges</h3>
+
 [![An image of @varun666's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/varun666)](https://holopin.io/@varun666)
 
 <h3 align="left">Connect with me:</h3>
