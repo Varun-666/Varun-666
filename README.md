@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **varunfatehpuria2@gmail.com**
 
-<a href="https://learn.unity.com/u/65a7e4b5edbc2a680db407f2" target="_blank" rel="noreferrer"><img src="https://learn.unity.com/u/65a7e4b5edbc2a680db407f2" alt="UNITY" width="40" height="40"/></a>
+<a href="https://learn.unity.com/u/65a7e4b5edbc2a680db407f2" target="_blank" rel="noreferrer"><img src="https://github.com/Varun-666/Varun-666/blob/main/GetStartedWithUnityBadge.jpeg" alt="UNITY" width="40" height="40"/></a>
 
 <h3 align="left">⚡Languages and Tools</h3>
 <p align="left"> 
