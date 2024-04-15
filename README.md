@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working with **TCET Open Source**
 
-- 🌱 I’m currently learning **Game Development**
+- 🌱 I’m currently learning **Game Development(UNITY Game Engine)**
 
 - 📫 How to reach me **varunfatehpuria2@gmail.com**
 
