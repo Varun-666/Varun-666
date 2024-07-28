@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, Hello I'm Varun Fatehpuria</h1>
+<h1 align="center">Hello 👋, I'm Varun Fatehpuria</h1>
 <h3 align="center">A passionate UI/UX Designer, Graphic Designer</h3>
 
 - 🔭 I’m currently working with **TCET Open Source**
