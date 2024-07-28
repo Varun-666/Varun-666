@@ -24,7 +24,7 @@
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>     
   <a href="" target="_blank" rel="noreferrer"> <img src="resouces\AdobePhotoshopLogo.png" alt="photoshop" width="40" height="40"/> </a> 
   <a href="" target="_blank" rel="noreferrer"> <img src="resouces\AdobeXDLogo.png" alt="XD" width="40" height="40"/> </a> 
-  <a href="" target="_blank" rel="noreferrer"> <img src="resouces\C#Logo.png" alt="C#" width="40" height="40"/> </a>
+  <a href="" target="_blank" rel="noreferrer"> <img src="resouces\C2Logo.png" alt="C#" width="40" height="40"/> </a>
   <a href="" target="_blank" rel="noreferrer"> <img src="resouces\BlenderIcon.png" alt="Blender" width="40" height="40"/> </a>
 </p> 
 </p>
