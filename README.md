@@ -1,3 +1,4 @@
+<img src="https://github.com/xoTEMPESTox/xoTEMPESTox/blob/main/Resources/img/grid-snake.svg" />
 <h1 align="center">Hello 👋, I'm Varun Fatehpuria</h1>
 <h3 align="center">A passionate UI/UX Designer, Graphic Designer</h3>
 
