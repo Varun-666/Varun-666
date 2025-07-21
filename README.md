@@ -28,7 +28,7 @@
 
 <h3 align="left"> 🦉 My Codolio Card</h3>
 <p>
-<img src="resources/devCard.png" width="200" height="400"/> 
+<a href="https://codolio.com/profile/varunfatehpuria2/card"><img src="resources/devCard.png" width="200" height="400"/></a> 
 <img src="resources/profileCard.png" width="200" height="400"/>
 </p>
 
