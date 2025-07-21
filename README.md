@@ -37,5 +37,5 @@
 
 <h3 align="left"> My Codolio Card</h3>
 <p>
-<a href="https://codolio.com/profile/varunfatehpuria2/card"></a>  
+<a href="https://github.com/Varun-666/resources/devCard.png"></a>  
 </p>
