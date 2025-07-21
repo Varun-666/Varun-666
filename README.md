@@ -28,13 +28,13 @@
 
 ### [🦉 My Codolio Card](https://codolio.com/profile/varunfatehpuria2/card)
 <p>
-<a href="https://codolio.com/profile/varunfatehpuria2/card"><img src="resources/devCard.png" width="200" height="400"/></a> 
+<img src="resources/devCard.png" width="200" height="400"/>
 <img src="resources/profileCard.png" width="200" height="400"/>
 </p>
 
 <h3 align="left">🔗Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/varun-fatehpuria-a3145225a"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="https://linkedin.com/in/varun-fatehpuria"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
 <a href="https://twitter.com/v4mp120047"><img src="https://skillicons.dev/icons?i=twitter" /></a> 
 <a href="https://instagram.com/vaarroonn"><img src="https://skillicons.dev/icons?i=instagram" /></a> 
 <a href="https://discord.gg/varun20047"><img src="https://skillicons.dev/icons?i=discord" /></a> 
