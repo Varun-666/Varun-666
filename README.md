@@ -37,5 +37,5 @@
 
 <h3 align="left"> My Codolio Card</h3>
 <p>
-<a href="https://github.com/Varun-666/resources/devCard.png"></a>  
+<a href="resouces/devCard.png"></a>  
 </p>
