@@ -34,3 +34,8 @@
 <a href="https://discord.gg/varun20047"><img src="https://skillicons.dev/icons?i=discord" /></a> 
 <a href="https://learn.unity.com/u/65a7e4b5edbc2a680db407f2?tab=profile"><img src="https://skillicons.dev/icons?i=unity" /></a> 
 </p>
+
+<h3 align="left"> My Codolio Card</h3>
+<p>
+<img src="https://codolio.com/profile/varunfatehpuria2/card" />  
+</p>
