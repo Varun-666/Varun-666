@@ -26,6 +26,11 @@
 
 [![An image of @varun666's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/varun666)](https://holopin.io/@varun666)
 
+<h3 align="left"> My Codolio Card</h3>
+<p>
+<img src="resouces/devCard.png" width="200" height="400"/> 
+</p>
+
 <h3 align="left">🔗Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/varun-fatehpuria-a3145225a"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
@@ -33,9 +38,4 @@
 <a href="https://instagram.com/vaarroonn"><img src="https://skillicons.dev/icons?i=instagram" /></a> 
 <a href="https://discord.gg/varun20047"><img src="https://skillicons.dev/icons?i=discord" /></a> 
 <a href="https://learn.unity.com/u/65a7e4b5edbc2a680db407f2?tab=profile"><img src="https://skillicons.dev/icons?i=unity" /></a> 
-</p>
-
-<h3 align="left"> My Codolio Card</h3>
-<p>
-<img src="resouces/devCard.png" width="100" height="200"/> 
 </p>
