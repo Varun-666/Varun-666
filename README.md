@@ -26,7 +26,7 @@
 
 [![An image of @varun666's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/varun666)](https://holopin.io/@varun666)
 
-<h3 align="left"> 🦉 My Codolio Card</h3>
+<a href="https://codolio.com/profile/varunfatehpuria2/card"><h3 align="left"> 🦉 My Codolio Card</h3></a>
 <p>
 <a href="https://codolio.com/profile/varunfatehpuria2/card"><img src="resources/devCard.png" width="200" height="400"/></a> 
 <img src="resources/profileCard.png" width="200" height="400"/>
