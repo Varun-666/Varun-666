@@ -9,7 +9,7 @@
 - 📫 How to reach me **varunfatehpuria2@gmail.com**
 
 <h3 align="left">My  Unity Learn Baddges</h3>
-<a href="https://learn.unity.com/u/65a7e4b5edbc2a680db407f2" target="_blank" rel="noreferrer"><img src="resouces\GetStartedWithUnityBadge.jpeg" alt="UNITY" width="40" height="40"/></a>
+<a href="https://learn.unity.com/u/65a7e4b5edbc2a680db407f2" target="_blank" rel="noreferrer"><img src="resources\GetStartedWithUnityBadge.jpeg" alt="UNITY" width="40" height="40"/></a>
 
 <h3 align="left">⚡Languages</h3>
 <p align="left"> 
