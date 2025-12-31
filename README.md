@@ -13,13 +13,13 @@
 
 <h3 align="left">⚡Languages</h3>
 <p align="left"> 
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,c,cpp,cs,python" />
+<img src="https://skillicons.dev/icons?i=c,cpp,python" />
 </p> 
 </p>
 
 <h3 align="left">🔧 Tools</h3>
 <p align="left">
-<img src="https://skillicons.dev/icons?i=figma,unity,arduino,blender,notion" />
+<img src="https://skillicons.dev/icons?i=figma,unity,arduino,blender,notion,vscode,git,github" />
 </p>
 
 <h3>📛 Holopin Hacktoberfest23 Badges</h3>
