@@ -2,9 +2,9 @@
 <h1 align="center">Hello 👋, I'm Varun Fatehpuria</h1>
 <h3 align="center">A passionate UI/UX Designer, Graphic Designer</h3>
 
-- 🔭 I’m currently working with **TCET Open Source**
+- 🔭 I’m currently working with **Open To Work**
 
-- 🌱 I’m currently learning **Game Development**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 📫 How to reach me **varunfatehpuria2@gmail.com**
 
@@ -13,7 +13,7 @@
 
 <h3 align="left">⚡Languages</h3>
 <p align="left"> 
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,c,cpp,cs" />
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,c,cpp,cs,python" />
 </p> 
 </p>
 
