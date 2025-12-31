@@ -19,7 +19,7 @@
 
 <h3 align="left">🔧 Tools</h3>
 <p align="left">
-<img src="https://skillicons.dev/icons?i=figma,unity,arduino,blender,notion,vscode,git,github" />
+<img src="https://skillicons.dev/icons?i=figma,unity,notion,vscode,git,github" />
 </p>
 
 <h3>📛 Holopin Hacktoberfest23 Badges</h3>
