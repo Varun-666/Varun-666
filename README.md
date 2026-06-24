@@ -1,6 +1,6 @@
 <img src="https://github.com/xoTEMPESTox/xoTEMPESTox/blob/main/public/assets/images/animations/grid-snake.svg" width = "100%"/>
 <h1 align="center">Hello 👋, I'm Varun Fatehpuria</h1>
-<h3 align="center">A passionate UI/UX Designer, Graphic Designer</h3>
+<h3 align="center">A passionate to work into Machine Learning & Data Engineering.</h3>
 
 - 🔭 I’m currently working with **Open To Work**
 
