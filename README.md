@@ -48,8 +48,8 @@ Machine Learning • Data Engineering • Artificial Intelligence Enthusiast
 </p>
 
 # :books: Libraries & Framework
-<p align="center>
-    <img src="https://skillicons.dev/icons?i=sklearn" />
+<p align="center">
+    ![sklearn](https://skillicons.dev/icons?i=sklearn)
 </p>
 
 ---
