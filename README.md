@@ -44,7 +44,12 @@ Machine Learning • Data Engineering • Artificial Intelligence Enthusiast
 # 🛠️ Tools & Technologies
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,unity,notion" />
+<img src="https://skillicons.dev/icons?i=git,github,figma,notion,unity,vscode" />
+</p>
+
+# :books: Libraries & Framework
+<p align="center>
+    <img src="https://skillicons.dev/icons?i=sklearn" />
 </p>
 
 ---
