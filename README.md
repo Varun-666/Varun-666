@@ -1,6 +1,6 @@
 <img src="https://github.com/xoTEMPESTox/xoTEMPESTox/blob/main/public/assets/images/animations/grid-snake.svg" width="100%" />
 
-<p align = "center"> <img src="https://readme-typing-svg.herokuapp.com?font=aerial&color=%2336BCF7&width=490&lines=Hi%2C+I'm+Varun+Fatehpuria!;"> </p>
+<p align = "center"> <img src="https://readme-typing-svg.herokuapp.com?font=aerial&color=%237218b4&width=490&lines=Hi%2C+I'm+Varun+Fatehpuria!;"> </p>
 
 <!-- <h1 align="center">Hi 👋, I'm Varun Fatehpuria</h1> -->
 <h3 align="center">
