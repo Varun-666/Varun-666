@@ -37,6 +37,7 @@ Machine Learning • Data Engineering • Artificial Intelligence Enthusiast
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css" />
+<img src="https://github.com/Varun-666/Varun-666/resources/Pandas.svg" />
 </p>
 
 ---
