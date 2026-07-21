@@ -37,7 +37,6 @@ Machine Learning • Data Engineering • Artificial Intelligence Enthusiast
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css" />
-<img src="https://github.com/Varun-666/Varun-666/resources/Pandas.svg" />
 </p>
 
 ---
@@ -51,7 +50,8 @@ Machine Learning • Data Engineering • Artificial Intelligence Enthusiast
 # :books: Libraries & Framework
 <p align="center">
     <img src="https://skillicons.dev/icons?i=sklearn" />
-    <img src="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 100 100"><path fill="#fff"d="M36.122 5.912h10.93v22.693h-10.93zm0 46.616h10.93v22.691h-10.93z"/><path fill="#ffca00"d="M36.122 35.228h10.93v10.707h-10.93z"/><path fill="#fff"d="M18.56524.567h10.929V100h-q10.93zM53.316 71.25h10.93v22.692h-10.93zm0-46.657h10.93v22.693h-10.93z"/><path fill="#e70488"d="M53.316 53.914h10.93v10.707h-10.93z"/><path fill="#fff" d="M70.506 0h10.93v75.433h-10.93z" />
+    <img src="https://github.com/Varun-666/Varun-666/blob/main/resources/Pandas.svg" width="40" height="40"/>
+    <img src="https://github,com/Varun-666/Varun-666/blob/main/resources/HuggingFace.svg" width="40" height="40" />
 </p>
 
 ---
