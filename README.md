@@ -51,7 +51,7 @@ Machine Learning • Data Engineering • Artificial Intelligence Enthusiast
 <p align="center">
     <img src="https://skillicons.dev/icons?i=sklearn" />
     <img src="https://github.com/Varun-666/Varun-666/blob/main/resources/Pandas.svg" width="40" height="40"/>
-    <img src="https://github,com/Varun-666/Varun-666/blob/main/resources/HuggingFace.svg" width="40" height="40" />
+    <img src="https://github.com/Varun-666/Varun-666/blob/main/resources/HuggingFace.svg" width="40" height="40" />
 </p>
 
 ---
