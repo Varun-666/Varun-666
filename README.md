@@ -36,7 +36,7 @@ Machine Learning • Data Engineering • Artificial Intelligence Enthusiast
 # 💻 Languages
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=c,cpp,python" />
+<img src="https://skillicons.dev/icons?i=c,cpp,python,html,css" />
 </p>
 
 ---
