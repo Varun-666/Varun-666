@@ -47,7 +47,7 @@ Machine Learning • Data Engineering • Artificial Intelligence Enthusiast
 <img src="https://skillicons.dev/icons?i=git,github,figma,notion,unity,vscode" />
 </p>
 
-# :books: Libraries & Framework
+## :books: Libraries & Framework
 <p align="center">
     <img src="https://skillicons.dev/icons?i=sklearn" />
     <img src="https://github.com/Varun-666/Varun-666/blob/main/resources/Pandas.svg" width="40" height="40"/>
