@@ -33,7 +33,7 @@ Machine Learning • Data Engineering • Artificial Intelligence Enthusiast
 
 ---
 
-# 💻 Languages
+## 💻 Languages
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css" />
@@ -41,7 +41,7 @@ Machine Learning • Data Engineering • Artificial Intelligence Enthusiast
 
 ---
 
-# 🛠️ Tools & Technologies
+## 🛠️ Tools & Technologies
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=git,github,figma,notion,unity,vscode" />
@@ -56,7 +56,7 @@ Machine Learning • Data Engineering • Artificial Intelligence Enthusiast
 
 ---
 
-# 🏅 Holopin Badges
+## 🏅 Holopin Badges
 
 <p align="center">
 
@@ -66,7 +66,7 @@ Machine Learning • Data Engineering • Artificial Intelligence Enthusiast
 
 ---
 
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 
 <p align="center">
 
@@ -94,7 +94,7 @@ Machine Learning • Data Engineering • Artificial Intelligence Enthusiast
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
 
@@ -112,7 +112,7 @@ Machine Learning • Data Engineering • Artificial Intelligence Enthusiast
 
 ---
 
-# 🚀 Currently Working On
+## 🚀 Currently Working On
 
 - 🤖 Machine Learning Projects
 - 📊 Data Engineering Pipelines
