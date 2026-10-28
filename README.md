@@ -1,6 +1,5 @@
 <!-- ===================== HERO ===================== -->
 <div align="center">
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:7F5AF0,50:2CB67D,100:00C2FF&text=Varun%20Fatehpuria&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=Machine%20Learning%20%E2%80%A2%20Data%20Engineering%20%E2%80%A2%20Open%20Source&descSize=16&descAlignY=60" alt="Colorful gradient header" />
 
 <a href="https://github.com/Varun-666">
